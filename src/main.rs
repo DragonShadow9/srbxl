@@ -1,4 +1,13 @@
+extern crate colored;
+
+use colored::Colorize;
+
+
+
+
 fn main() {
+
+
     let args: Vec<String> = std::env::args().collect();
-    // will do more tmr and school
+    // will update at school
 }
